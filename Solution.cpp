@@ -20,6 +20,7 @@ int main() {
   //Inspect elements in list
   //Get additive value subtracting the current index from the target sum
   //forward search
+  //Start Search on index after mid point
   //If the inspecting element > additive value, move onto checking 3 elements and so on
   
   //floor divide target sum by 2 to get the midpoint and start at index < mid
